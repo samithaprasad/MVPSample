@@ -1,0 +1,9 @@
+C:\Users\Smtp2\source\repos\MVPSample\MVPSample\bin\Debug\MVPSample.exe
+C:\Users\Smtp2\source\repos\MVPSample\MVPSample\bin\Debug\MVPSample.pdb
+C:\Users\Smtp2\source\repos\MVPSample\MVPSample\obj\Debug\MVPSample.csprojAssemblyReference.cache
+C:\Users\Smtp2\source\repos\MVPSample\MVPSample\obj\Debug\MVPSample.Form1.resources
+C:\Users\Smtp2\source\repos\MVPSample\MVPSample\obj\Debug\MVPSample.Properties.Resources.resources
+C:\Users\Smtp2\source\repos\MVPSample\MVPSample\obj\Debug\MVPSample.csproj.GenerateResource.cache
+C:\Users\Smtp2\source\repos\MVPSample\MVPSample\obj\Debug\MVPSample.csproj.CoreCompileInputs.cache
+C:\Users\Smtp2\source\repos\MVPSample\MVPSample\obj\Debug\MVPSample.exe
+C:\Users\Smtp2\source\repos\MVPSample\MVPSample\obj\Debug\MVPSample.pdb
